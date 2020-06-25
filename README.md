@@ -1,4 +1,4 @@
-#alfa __author__ = "sams3pi0l"
+################### ALFA ###################
 Local File Inclusion Vulnerability Use. Inspired from TABBY HackTheBox.eu ❤ Enjoy
 
 
